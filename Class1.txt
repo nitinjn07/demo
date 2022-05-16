@@ -65,9 +65,6 @@ Software:
                               Web Application
 
 
-            - Desktop Application 
-            - Mobile Application 
-
 
 
 
