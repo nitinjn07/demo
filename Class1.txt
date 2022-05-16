@@ -1,0 +1,143 @@
+Computer: 
+   -  Electronic
+   -  Input/Output
+   -  Process
+
+-----------------------------------------
+
+Human Work Make Easy : 
+
+- Machine Language ( Binary Lang ) 1,0
+- Assembly Language  - Assembler 
+- High Level Language - Compiler/Interpreter
+
+------------------------------------------------
+Software
+
+English               C             
+
+    - Alphabets      Variable,Datatype,Operator
+    - Words          Instruction    int a =10;
+    - Sentances      Program 
+    - Paragraph      Software 
+
+
+................................................
+
+Software: SDLC ( Software Development Life Cycle ):
+
+Software :  DPS  
+
+1. Analysis  - Software Analysis
+2. Designing - Web Designer / Ui/UX / Front End 
+3. Implementation - Software Developer 
+4. Testing - Software Tester 
+5. Maintaince - Non Tech/Tech 
+.....................................................
+
+Software Development Process Model 
+
+1. Waterfall Model 
+2. Prototype Model
+3. Incremental Model 
+.........................................................
+
+Software: 
+
+   - Application
+            - Web Application 
+
+                       - Static 
+                       
+                          Website 
+                              Content
+                              Website   
+
+
+
+
+
+
+                       - Dynamic 
+
+                          Website 
+                              Content             Database 
+                              Web Application
+
+
+            - Desktop Application 
+            - Mobile Application 
+
+
+
+
+
+
+
+
+   - System Software 
+   - Utility Software 
+
+Company :
+
+   -  Wesbite 
+   -  Software 
+   -  Marketing 
+   -  Mobile App 
+--------------------------------------
+
+   UI/UX   ( 2.5)
+      - HTML5 - 5 ( )
+      - CSS3 - 1 Week 
+      - JQuery 
+      - JavaScript
+      - Bootstrap5 
+      - Figma / Illustrator / Photoshop 
+
+   Backend
+      - PHP , Java,  Python,  .Net 
+
+      - Node JS ( API )
+      - React ( UI Design )
+      - Mongo, MySQL 
+
+   Mobile Application ( 2 Month )
+      
+      - Flutter ( Android / iOS )    
+
+    Marketing  ( 20 )
+     
+      - SEO (Search Engine Optimization)
+
+      - Digital Marketing  
+       
+          Social Media Marketing 
+           - Facebook  OR Instagram 
+           - Whatsapp 
+           - Twitter 
+           - Linkedin 
+           - Good Ads ( PPC )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
